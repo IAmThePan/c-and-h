@@ -1,0 +1,63 @@
+/* Page Styles */
+body {
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #f2f3f5;
+}
+h5 {
+  margin: 3px 5px;
+  padding: 10px 6px 0;
+  color: #5f5f5f;
+  border-bottom: 1px solid #c7c8ca;
+}
+
+.section.strip {
+  margin: 30px auto;
+  width: 902px;
+}
+.comic-big {
+  border: 1px solid black;
+}
+.nav {
+  float: left;
+  padding-right: 10px;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.info {
+  float: right;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.section.menu {
+  margin: 30px auto 2px;
+  width: 900px;
+  padding: 10px; 6px;
+  color: #5f5f5f;
+  background-color: #c7c8ca;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.selections {
+  margin: 0 auto;
+  width: 500px;
+  display: flex;
+  justify-content: space-around;
+}
+.selections div.selected {
+  font-weight: bold;
+}
+.selections div:hover {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.section.list {
+  margin: 0 auto;
+  width: 900px;
+  padding: 1px 6px;
+  color: #5f5f5f;
+  background-color: #d9dbdc;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}

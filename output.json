@@ -1,0 +1,168 @@
+{ '1985/11/21': 
+   { dateStr: '1985/11/21',
+     imgSmall: 'http://assets.amuniversal.com/cfa56590deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/d0592970deb701317193005056a9545d' },
+  '1985/11/22': 
+   { dateStr: '1985/11/22',
+     imgSmall: 'http://assets.amuniversal.com/d0ee5680deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/d196df30deb701317193005056a9545d' },
+  '1985/11/20': 
+   { dateStr: '1985/11/20',
+     imgSmall: 'http://assets.amuniversal.com/ce597370deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/cf0d5480deb701317193005056a9545d' },
+  '1985/11/18': 
+   { dateStr: '1985/11/18',
+     imgSmall: 'http://assets.amuniversal.com/cbadc520deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/cc713730deb701317193005056a9545d' },
+  '1985/11/19': 
+   { dateStr: '1985/11/19',
+     imgSmall: 'http://assets.amuniversal.com/cd08f780deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/cdc05990deb701317193005056a9545d' },
+  '1985/11/23': 
+   { dateStr: '1985/11/23',
+     imgSmall: 'http://assets.amuniversal.com/d2337970deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/d2e910b0deb701317193005056a9545d' },
+  '1985/11/24': 
+   { dateStr: '1985/11/24',
+     imgSmall: 'http://assets.amuniversal.com/556530f096fc012f2fe300163e41dd5b',
+     imgLarge: 'http://assets.amuniversal.com/d161054096fb012f2fe300163e41dd5b' },
+  '1985/11/28': 
+   { dateStr: '1985/11/28',
+     imgSmall: 'http://assets.amuniversal.com/d76da400deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/d81f5420deb701317193005056a9545d' },
+  '1985/11/27': 
+   { dateStr: '1985/11/27',
+     imgSmall: 'http://assets.amuniversal.com/d61fa3b0deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/d6d11040deb701317193005056a9545d' },
+  '1985/11/26': 
+   { dateStr: '1985/11/26',
+     imgSmall: 'http://assets.amuniversal.com/d4dcf080deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/d58b2890deb701317193005056a9545d' },
+  '1985/11/25': 
+   { dateStr: '1985/11/25',
+     imgSmall: 'http://assets.amuniversal.com/d37dc8b0deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/d42e79f0deb701317193005056a9545d' },
+  '1985/11/29': 
+   { dateStr: '1985/11/29',
+     imgSmall: 'http://assets.amuniversal.com/d8b70a50deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/d96c73a0deb701317193005056a9545d' },
+  '1985/11/30': 
+   { dateStr: '1985/11/30',
+     imgSmall: 'http://assets.amuniversal.com/d9fcd530deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/daa67570deb701317193005056a9545d' },
+  '1985/12/1': 
+   { dateStr: '1985/12/1',
+     imgSmall: 'http://assets.amuniversal.com/54daf89096fc012f2fe300163e41dd5b',
+     imgLarge: 'http://assets.amuniversal.com/cffd2d3096fb012f2fe300163e41dd5b' },
+  '1985/12/4': 
+   { dateStr: '1985/12/4',
+     imgSmall: 'http://assets.amuniversal.com/ddc5c530deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/de76fde0deb701317193005056a9545d' },
+  '1985/12/2': 
+   { dateStr: '1985/12/2',
+     imgSmall: 'http://assets.amuniversal.com/db405330deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/dbef90a0deb701317193005056a9545d' },
+  '1985/12/3': 
+   { dateStr: '1985/12/3',
+     imgSmall: 'http://assets.amuniversal.com/dc84f3b0deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/dd333220deb701317193005056a9545d' },
+  '1985/12/7': 
+   { dateStr: '1985/12/7',
+     imgSmall: 'http://assets.amuniversal.com/e191e820deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/e23ad270deb701317193005056a9545d' },
+  '1985/12/5': 
+   { dateStr: '1985/12/5',
+     imgSmall: 'http://assets.amuniversal.com/df0c4bd0deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/dfb9a610deb701317193005056a9545d' },
+  '1985/12/6': 
+   { dateStr: '1985/12/6',
+     imgSmall: 'http://assets.amuniversal.com/e051aab0deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/e10149b0deb701317193005056a9545d' },
+  '1985/12/8': 
+   { dateStr: '1985/12/8',
+     imgSmall: 'http://assets.amuniversal.com/56f09b2096fc012f2fe300163e41dd5b',
+     imgLarge: 'http://assets.amuniversal.com/d69672c096fb012f2fe300163e41dd5b' },
+  '1985/12/10': 
+   { dateStr: '1985/12/10',
+     imgSmall: 'http://assets.amuniversal.com/e4211760deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/e4d2f720deb701317193005056a9545d' },
+  '1985/12/9': 
+   { dateStr: '1985/12/9',
+     imgSmall: 'http://assets.amuniversal.com/e2d4a930deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/e38b98d0deb701317193005056a9545d' },
+  '1985/12/11': 
+   { dateStr: '1985/12/11',
+     imgSmall: 'http://assets.amuniversal.com/e56d3050deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/e624d750deb701317193005056a9545d' },
+  '1985/12/12': 
+   { dateStr: '1985/12/12',
+     imgSmall: 'http://assets.amuniversal.com/e6ba0590deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/e76dda10deb701317193005056a9545d' },
+  '1985/12/13': 
+   { dateStr: '1985/12/13',
+     imgSmall: 'http://assets.amuniversal.com/e800bdd0deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/e8aff020deb701317193005056a9545d' },
+  '1985/12/16': 
+   { dateStr: '1985/12/16',
+     imgSmall: 'http://assets.amuniversal.com/ea80bc40deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/eb3111a0deb701317193005056a9545d' },
+  '1985/12/14': 
+   { dateStr: '1985/12/14',
+     imgSmall: 'http://assets.amuniversal.com/e942d7f0deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/e9ee4810deb701317193005056a9545d' },
+  '1985/12/15': 
+   { dateStr: '1985/12/15',
+     imgSmall: 'http://assets.amuniversal.com/57c61e0096fc012f2fe300163e41dd5b',
+     imgLarge: 'http://assets.amuniversal.com/d8f7fa2096fb012f2fe300163e41dd5b' },
+  '1985/12/17': 
+   { dateStr: '1985/12/17',
+     imgSmall: 'http://assets.amuniversal.com/ebc7bb40deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/ec7b8870deb701317193005056a9545d' },
+  '1985/12/18': 
+   { dateStr: '1985/12/18',
+     imgSmall: 'http://assets.amuniversal.com/ed11e020deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/edc27130deb701317193005056a9545d' },
+  '1985/12/21': 
+   { dateStr: '1985/12/21',
+     imgSmall: 'http://assets.amuniversal.com/f127adb0deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/f1d4e830deb701317193005056a9545d' },
+  '1985/12/22': 
+   { dateStr: '1985/12/22',
+     imgSmall: 'http://assets.amuniversal.com/56420ca096fc012f2fe300163e41dd5b',
+     imgLarge: 'http://assets.amuniversal.com/d555793096fb012f2fe300163e41dd5b' },
+  '1985/12/20': 
+   { dateStr: '1985/12/20',
+     imgSmall: 'http://assets.amuniversal.com/efe6ae30deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/f0944020deb701317193005056a9545d' },
+  '1985/12/19': 
+   { dateStr: '1985/12/19',
+     imgSmall: 'http://assets.amuniversal.com/ee77dab0deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/ef507130deb701317193005056a9545d' },
+  '1985/12/23': 
+   { dateStr: '1985/12/23',
+     imgSmall: 'http://assets.amuniversal.com/f269b510deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/f31dd1f0deb701317193005056a9545d' },
+  '1985/12/24': 
+   { dateStr: '1985/12/24',
+     imgSmall: 'http://assets.amuniversal.com/f3b0f440deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/f45c7690deb701317193005056a9545d' },
+  '1985/12/26': 
+   { dateStr: '1985/12/26',
+     imgSmall: 'http://assets.amuniversal.com/f6397940deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/f6ebbe30deb701317193005056a9545d' },
+  '1985/12/28': 
+   { dateStr: '1985/12/28',
+     imgSmall: 'http://assets.amuniversal.com/f8cfbc50deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/f97e0450deb701317193005056a9545d' },
+  '1985/12/27': 
+   { dateStr: '1985/12/27',
+     imgSmall: 'http://assets.amuniversal.com/f7843aa0deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/f83877e0deb701317193005056a9545d' },
+  '1985/12/25': 
+   { dateStr: '1985/12/25',
+     imgSmall: 'http://assets.amuniversal.com/f4f4a910deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/f5a6a720deb701317193005056a9545d' },
+  '1985/12/31': 
+   { dateStr: '1985/12/31',
+     imgSmall: 'http://assets.amuniversal.com/fb5043c0deb701317193005056a9545d',
+     imgLarge: 'http://assets.amuniversal.com/fbfc07e0deb701317193005056a9545d' } }
